@@ -1,0 +1,5 @@
+<?
+$MESS['FLXMD_CHANGE_PASSWORD_COMPONENT_NAME'] = 'Форма изменения пароля';
+$MESS['FLXMD_CHANGE_PASSWORD_COMPONENT_DESCR'] = 'Форма изменения пароля';
+$MESS['FLXMD_CHANGE_PASSWORD_COMPONENT_PATH'] = 'Flex Media';
+?>
